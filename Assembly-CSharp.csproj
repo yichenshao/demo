@@ -51,7 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\BuildInfo.cs" />
+     <Compile Include="Assets\scripts\BulletDamage.cs" />
      <Compile Include="Assets\scripts\DefaultSpeed.cs" />
+     <Compile Include="Assets\scripts\Firing.cs" />
      <Compile Include="Assets\scripts\health.cs" />
      <Compile Include="Assets\scripts\moneyCollect.cs" />
  <Reference Include="UnityEngine.UIAutomation">
